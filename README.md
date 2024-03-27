@@ -77,7 +77,7 @@ Going forward, we plan to build a model that can predict thoracic pathologies ba
 | Develop & hyperparameter tune transformer-based model                      | Nabil       | 04/11    |
 | Develop & hyperparameter tune PyTorch CNN model                            | Hilary      | 04/11    |
 | Evaluate each model with the validation set, compare models and select the best option, test final model on test set | Everyone | 04/13 |
-| Wrap up Final Project    
+| Wrap up Final Project                          | Everyone    | 04/18    |
 
 
 Github*: https://github.com/hilpresent/CS6476_Project 
