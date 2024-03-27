@@ -80,7 +80,7 @@ Going forward, we plan to build a model that can predict thoracic pathologies ba
 | Wrap up Final Project                          | Everyone    | 04/18    |
 
 
-Github*: https://github.com/hilpresent/CS6476_Project 
+*Github: https://github.com/hilpresent/CS6476_Project 
 
 *Note: waiting for gatech to accept my application for githubt.gatech.edu
 
@@ -89,10 +89,10 @@ Github*: https://github.com/hilpresent/CS6476_Project
 
 
 
-References 
-GE Healthcare. (2023, June 13). Improving Accuracy in Radiology Images and Reports. GE Healthcare. https://www.gehealthcare.com/insights/article/improving-accuracy-in-radiology-images-and-reports 
-Guardado, J. R. (2023). Medical Liability Claim Frequency Among U.S. Physicians. American Medical Association: Policy Research Perspectives. 
-Whang, J. S., Baker, S. R., Patel, R., Luk, L., Castro, A. (2013, February 1). The Causes of Medical Malpractice Suits against Radiologists in the United States. Radiology, 266(2). https://doi.org/https://doi.org/10.1148/radiol.12111119 
+## References 
+- GE Healthcare. (2023, June 13). Improving Accuracy in Radiology Images and Reports. GE Healthcare. https://www.gehealthcare.com/insights/article/improving-accuracy-in-radiology-images-and-reports 
+- Guardado, J. R. (2023). Medical Liability Claim Frequency Among U.S. Physicians. American Medical Association: Policy Research Perspectives. 
+- Whang, J. S., Baker, S. R., Patel, R., Luk, L., Castro, A. (2013, February 1). The Causes of Medical Malpractice Suits against Radiologists in the United States. Radiology, 266(2). https://doi.org/https://doi.org/10.1148/radiol.12111119 
 
 
 
